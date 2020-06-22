@@ -1,0 +1,6 @@
+How to deloy your website on firebase?
+
+command line 
+firebase init 
+firebase add
+firebase deploy
